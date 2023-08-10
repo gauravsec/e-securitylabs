@@ -1,0 +1,46 @@
+Multiple vulnerabilities have been identified in Juniper products. A remote attacker can exploit these vulnerabilities to perform Remote Code Execution and trigger Denial Of Service condition on the targeted system.
+Impact
+
+    Denial of Service
+    Remote Code Execution
+
+System / Technologies affected
+
+    Junos OS 12.1 to 18.2 (Specific versions applied)
+
+Solutions
+
+Before installation of the software, please visit the software manufacturer web-site for more details.
+
+ 
+
+    The vendor has issued a fix (refer to 'Related Links' for individual patch information).
+
+Vulnerability Identifier
+
+    CVE-2018-0043
+    CVE-2018-0045
+    CVE-2018-0046
+    CVE-2018-0047
+    CVE-2018-0048
+    CVE-2018-0049
+    CVE-2018-0050
+    CVE-2018-0051
+    CVE-2018-0052
+    CVE-2018-0053
+    CVE-2018-0054
+    CVE-2018-0055
+    CVE-2018-0056
+    CVE-2018-0060
+    CVE-2018-0061
+    CVE-2018-0062
+    CVE-2018-0063
+
+Source
+
+    SecurityTracker
+
+Related Link
+
+    https://securitytracker.com/id/1041863
+    https://securitytracker.com/id/1041862
